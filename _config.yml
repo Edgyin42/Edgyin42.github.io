@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Hakew.png"
+  avatar           : "Hakew.jpg"
   name             : "Trang Nguyen" 
   bio              : "2nd year Maths student at University of Adelaide."
   location         : "Adelaide"
